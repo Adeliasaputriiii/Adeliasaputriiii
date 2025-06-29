@@ -24,7 +24,7 @@ I enjoy exploring new technologies, building real-world projects, and continuous
 ## You can reach me at:
 
 - [LinkedIn](https://www.linkedin.com/in/adeliasaputri174/)
-- Instagram: [@adeliassp](https://www.instagram.com/adeliassp)
+- Instagram: [@adeliassp]
 
 
 `This is the place where I share what I build, what I learn, and how I grow` 
